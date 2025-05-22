@@ -14,7 +14,7 @@ This is a practice project based on a challenge from [Frontend Mentor](https://w
 
 ## GitHub Pages
 
-You can view the live demo on [GitHub Pages](https://your-username.github.io/blog-preview-card-main/).
+You can view the live demo on [GitHub Pages]([https://your-username.github.io/blog-preview-card-main/]
 
 ## Resources
 
